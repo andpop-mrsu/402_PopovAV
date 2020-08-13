@@ -1,3 +1,3 @@
 <?php
-echo "This is task1" . PHP_EOL;
+echo 'This is task1' . PHP_EOL;
 
